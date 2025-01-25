@@ -1,5 +1,5 @@
-# 👨‍💻 Zaakir Hussain  
-🌐 **Software Engineer Extraordinaire** with 6+ years of experience making computers do what they're told (most of the time).  
+## Hi There!
+🌐 **I am Zaakir Hussain a Software Engineer Extraordinaire** with 6+ years of experience making computers do what they're told (most of the time).  
 
 🚀 **Backend Wizard** | 🛠️ Problem-Solving Machine | 🌍 Coming to you live from Mysuru, India  
 
