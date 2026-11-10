@@ -1,80 +1,139 @@
-# Hi there 👋, I'm Zaakir Hussain
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-header-dark.svg">
+    <img alt="Terminal window. Amber block letters spell ZAAKIR. A shell prompt types through technical lead, senior software engineer, building AI copilots, RAG evals and traces, and Flask, React, TypeScript." src="assets/terminal-header-light.svg" width="700">
+  </picture>
+</p>
 
-### Technical Lead | Senior Software Engineer | Python • TypeScript • AI/LLMs • Full-Stack Development
+<p align="center">
+  <strong>Zaakir Hussain</strong><br>
+  Technical Lead · Senior Software Engineer<br>
+  Mysuru, India · 8+ years
+</p>
 
-I'm a software engineer with 8+ years of experience building scalable web applications, designing backend architectures, and leading engineering teams. I enjoy solving complex problems, shipping impactful products, and exploring the latest advancements in AI.
+I like the part where an ambiguous problem turns into a system a person can rely on. Right now that system is an AI copilot.
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
+    <img alt="whoami card for Zaakir Hussain. Technical Lead and Senior Software Engineer, 8+ years, Mysuru, India. Host HCLTech, client Anglo American. Shell Python and TypeScript. App Flask, React, and Tailwind. Editor Cursor. Focus RAG, LLMs, and evals." src="assets/neofetch-light.svg" width="520">
+  </picture>
+</p>
 
-## 🚀 What I Do
+## Now
 
-* Design and build scalable backend systems
-* Develop high-performance APIs and distributed applications
-* Lead and mentor engineering teams
-* Build AI-powered applications using LLMs and RAG
-* Turn ideas into production-ready products
+`$ cat ~/work/copilot.log`
 
----
+At **HCLTech**, on assignment for **Anglo American**, I build custom AI, RAG, and LLM solutions. The product is an AI copilot. Briefs usually start ambiguous, and a lot of the work is with the people who use it.
 
-## 🛠️ Tech Stack
+**Flask** (Python) on the backend. **React, TypeScript, and Tailwind** on the frontend. Tracing, observability, and logging are a big part of the work.
 
-### Languages
+**~30% less RAG ingestion load**, from classifying images and skipping OCR that isn't needed.
 
-* Python
-* JavaScript
-* TypeScript
+**500ms–1.5s added latency** on LLM-generated KPI charts.
 
-### Backend
+**Eval pipeline** scores accuracy, relevance, and hallucination against ground-truth question sets, for document-backed answers and for answers backed by live telemetry.
 
-* Django
-* Node.js
-* REST APIs
-* Microservices
+## Stack
 
-### Frontend
+`$ ls ~/stack`
 
-* React
-* Vue.js
-* HTML5
-* CSS3
+**Languages** — `Python` `JavaScript` `TypeScript`
 
-### Databases
+**Backend** — `Django` `Flask` `Node.js` `Next.js` `REST APIs` `microservices`
 
-* PostgreSQL
-* MySQL
-* MongoDB
+**Frontend** — `React` `Vue.js` `Tailwind`
 
-### Cloud & DevOps
+**Data** — `PostgreSQL` `MySQL` `MongoDB`
 
-* AWS
-* Docker
-* CI/CD
-* Git
+**Cloud** — `Azure` (current) · `AWS` (previous) · `Terraform` `Docker` `CI/CD` `Git`
 
----
+**AI** — `LLMs` `RAG` `AI agents` `evals`
 
-## 🌱 Currently Exploring
+## How I work
 
-* AI Agents
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Distributed Systems
-* Product Engineering
+`$ cat ~/how-i-work.txt`
 
----
+**Cursor** is the daily driver. I use it for agentic coding: plan-and-execute loops, refactoring, performance work, and debugging. I also write the guides that help the team adopt it.
 
-## 💡 Engineering Philosophy
+I mentor engineers through workshops, 1:1 trainings, and code review.
 
 > Build simple solutions for complex problems.
 > Focus on scalability, maintainability, and user value.
 
+## Connect
+
+[github.com/ZaakirHussain5](https://github.com/ZaakirHussain5) · [x.com/ZaakirHussain5](https://x.com/ZaakirHussain5)
+
+Open to conversations about architecture, AI systems, and shipping useful products.
+
 ---
 
-## 📫 Let's Connect
+<details>
+<summary><code>$ cat about.txt --verbose</code></summary>
 
-* Open to collaborating on innovative products, AI initiatives, and open-source projects.
-* Always interested in discussing software architecture, startups, and emerging technologies.
+The short version is above. This is the same story with the scrollback on.
 
----
+I've spent 8+ years on backend systems, APIs, and full-stack products. The through-line is taking something complicated and leaving it simpler than I found it: scalable, maintainable, and worth a person's time.
 
-⚡ Fun Fact: I've spent years teaching computers what to do, and they still occasionally choose chaos.
+The copilot is the current version of that. Retrieval, models, and enough tracing that we can see what the model actually did. I sit with the people who use it, because the requirements usually start as a conversation.
+
+The eval pipeline is the part I am strict about. Accuracy, relevance, and hallucination, scored against ground-truth question sets. Document-backed answers go through it. So do answers backed by live telemetry.
+
+Cursor stays open most of the day for plan-and-execute loops, refactors, performance work, and debugging, and the team guides sit next to that.
+
+Mentoring, for me, is workshops, 1:1 trainings, and code review.
+
+> I've spent years teaching computers what to do, and they still occasionally choose chaos.
+
+</details>
+
+<details>
+<summary><code>$ sudo make coffee</code></summary>
+
+```text
+$ sudo make coffee
+[sudo] password for zaakir:
+make: *** No rule to make target 'coffee'.  Stop.
+
+zaakir is not in the sudoers file.
+this incident will be reported to the chaos module.
+```
+
+</details>
+
+<details>
+<summary><code>$ history | tail -n 5</code></summary>
+
+```text
+flask --app copilot run
+python -m evals --score accuracy,relevance,hallucination
+cursor --plan "skip the OCR we don't need"
+git commit -m "trace the path we couldn't see"
+sudo make coffee
+```
+
+</details>
+
+<details>
+<summary><code>$ cat banner.ans</code></summary>
+
+ANSI Shadow, 43 columns.
+
+```text
+███████╗ █████╗  █████╗ ██╗  ██╗██╗██████╗ 
+╚══███╔╝██╔══██╗██╔══██╗██║ ██╔╝██║██╔══██╗
+  ███╔╝ ███████║███████║█████╔╝ ██║██████╔╝
+ ███╔╝  ██╔══██║██╔══██║██╔═██╗ ██║██╔══██╗
+███████╗██║  ██║██║  ██║██║  ██╗██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
+
+</details>
+
+<p align="center"><code>$ logout</code></p>
+
+<p align="center">
+  session closed.<br>
+  computers still choose chaos.
+</p>
